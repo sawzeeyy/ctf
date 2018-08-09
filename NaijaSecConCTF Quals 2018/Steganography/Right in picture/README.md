@@ -5,7 +5,7 @@
 
 ## Problem
 
-Since the manager had his phone seized, DPR knew that looking at the photograph, the story it is telling cannot be outside it."
+Since the manager had his phone seized, DPR knew that looking at the photograph, the story it is telling cannot be outside it.
 
 **File:** wrong.jpg
 

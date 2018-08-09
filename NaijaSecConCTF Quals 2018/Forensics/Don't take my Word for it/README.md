@@ -34,5 +34,3 @@ The flag you seek is NSC{paSSW0rd_nOT_H1dD3N}
 ```
 
 Hence, the flag is **NSC{paSSW0rd_nOT_H1dD3N}**.
-
-![Screen caption](assets/path-to-screen.png)
