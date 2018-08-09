@@ -1,6 +1,6 @@
-# NaijaSecCon CTF Quals 2018
+![# NaijaSecCon CTF Quals 2018](https://user-images.githubusercontent.com/32202226/43914459-e17f704e-9bff-11e8-8cad-eee1c9fe3cdb.png)
 
-Solves by Team PH4N70M
+Solves by **Team PH4N70M**
 
 
 ## Team Members
@@ -15,4 +15,4 @@ L33KTBB: [@its_ibrahim](https://twitter.com/its_ibrahim)
 THEEJHAY: [@Theejhay18](https://twitter.com/Theejhay18)
 
 ## Credits
-Thanks to team LIGSEC for helping with this writeup
+Thanks to team **L.I.G S3C** for helping with this writeup
