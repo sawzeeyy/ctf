@@ -1,2 +1,2 @@
 # ctf
-Capture The Flag (CTF) writeup
+Capture The Flag (CTF) writeups
